@@ -22,3 +22,4 @@ def info_of_person(name, surname, date_of_birthday, city, email, mobile_phone):
 
 
 print(info_of_person(name, surname, date_of_birthday, city, email, mobile_phone))
+
