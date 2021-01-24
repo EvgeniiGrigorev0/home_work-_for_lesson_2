@@ -17,3 +17,4 @@ def sum_high_arg(first_value, second_value, third_value):
 
 
 print(sum_high_arg(first_value, second_value, third_value))
+
