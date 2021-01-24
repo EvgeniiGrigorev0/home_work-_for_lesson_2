@@ -30,10 +30,3 @@ for user_word in user_str:
 
 print(user_words)
 
-
-
-
-
-
-
-
