@@ -13,7 +13,7 @@ def my_sum():
     sum_res = 0
     ex = False
     while not ex:
-        number = input('Введите числа через пробел или введите Q для выхода - ').split()
+        number = input('Введите числа через пробел или введите Q для выхода: ').split()
         res = 0
         for el in range(len(number)):
             if number[el] == 'q' or number[el] == 'Q':
