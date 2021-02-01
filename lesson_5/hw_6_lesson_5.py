@@ -32,4 +32,3 @@ with open("шестое задание.txt", "r", encoding="utf-8") as my_file:
         magazine[(string.split()[0][:-1])] = total
 
 print(magazine)
-
