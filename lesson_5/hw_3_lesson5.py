@@ -15,3 +15,4 @@ with open('третье задание.txt', 'r', encoding="utf-8") as my_file:
             surnames.append(i[0])
         salary.append(i[1])
 print(f'Оклад меньше 20.000 {surnames}, средний оклад {sum(map(int, salary)) / len(salary)}')
+
