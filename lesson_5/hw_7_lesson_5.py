@@ -41,3 +41,4 @@ with open('седьмое задание.json', 'w', encoding="utf-8") as js_fil
     js_str = json.dumps(profit)
 
 print(f'Создан файл с расширением json со следующим содержимым: {js_str}')
+

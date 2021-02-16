@@ -19,3 +19,4 @@ with open("четвёртое задание.txt", "r", encoding="utf-8") as my_
             line = line.split()
             line[0] = rus[line[0]]
             new_my_file.writelines(" ".join(line) + "\n")
+
